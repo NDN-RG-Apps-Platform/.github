@@ -1,12 +1,21 @@
-## Hi there 👋
+# 📚 Microservices Project Documentation - NDN-RG Apps & Platform
 
-<!--
+## 🌟 Welcome!
 
-**Here are some ideas to get you started:**
+Welcome to the documentation for the NDN-RG Apps & Platform microservices project! Here, you will find important information regarding our research and project implementation.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 🛠️ About the Project
+
+We are researching and implementing microservices architecture for the Open Library website at Telkom University. This documentation includes:
+
+- Research related to microservices architecture
+- Implementation guides
+- Best practices and tips
+
+## 👥 Our Team
+
+This project is carried out by our expert team:
+
+- **Fayyadh Asady** 
+- **Aliza Nurfitrian Meizahra** 
+- **Made Satya Yudha Prawira** 
