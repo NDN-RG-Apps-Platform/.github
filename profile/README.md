@@ -3,7 +3,6 @@ We are researching and implementing microservices architecture for the Open Libr
 
 - Research related to microservices architecture
 - Implementation guides
-- Best practices and tips
 
 ## 👥 Our Team
 
