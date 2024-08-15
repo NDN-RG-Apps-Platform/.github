@@ -1,4 +1,4 @@
-# 📚 Microservices Project Documentation - NDN-RG Apps & Platform
+# Microservices Project Documentation - NDN-RG Apps & Platform
 
 ## 🌟 Welcome!
 
