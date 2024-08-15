@@ -1,11 +1,4 @@
-# Microservices Project Documentation - NDN-RG Apps & Platform
-
-## 🌟 Welcome!
-
-Welcome to the documentation for the NDN-RG Apps & Platform microservices project! Here, you will find important information regarding our research and project implementation.
-
-## 🛠️ About the Project
-
+# Microservices Project Documentation
 We are researching and implementing microservices architecture for the Open Library website at Telkom University. This documentation includes:
 
 - Research related to microservices architecture
