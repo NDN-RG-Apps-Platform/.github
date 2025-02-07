@@ -4,7 +4,7 @@ We are researching and implementing microservices architecture for the Open Libr
 - Research related to microservices architecture
 - Implementation guides
 
-## 👥 Our Team
+## 👥 Our Team TA Capstone
 
 This project is carried out by our expert team:
 
